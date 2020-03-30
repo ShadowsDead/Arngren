@@ -1,64 +1,70 @@
 <!doctype html>
 <html>
-
 <head>
-  
-	 <link rel="stylesheet" type="text/css" href="Arngren Stylesheet.css"
-   
-        <meta charset="utf-8">
+
 	
-   <style type="text/css">
-   .Title {
-}
-   </style>
-<div id="Header">
-	   
-	<div class="topnav">
+ <meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="Arngren StyleSheet.css"
 	
-	    <div id="nav">	       
-	 
-		<ul>
-		
-	<img src="Arngren Logo Layout 2.png" alt="Logo" class="Title">
-		<li><a class="selected" href="Arngren Cart.html">Cart</a></li>
-		<li><a class="selected" href="Arngren Contact.html">Contact</a></li>
-		<li><a class="selected" href="Arngren Products.html">Products</a></li>
-	    <li><a class="selected" href="Arngren Home.html">Home</a></li>
-	
-				</ul>
-				
-	</div>
-	
-	 </div>
-	   
-</div>	   
-	   
-</head>
+	</head>
 
 <body>
 
+<div class="custom-padding">
+  <nav>
+    <div class="logo">Arngren</div>
+
+    <ul class="menu-area">
+        
+		<li><a class="selected" href="Arngren Home.html">Home</a></li>
+		<li><a class="selected" href="Arngren Products.html">Products</a></li>
+		<li><a class="selected" href="Arngren Contact.html">Contact</a></li>
+		<li><a class="selected" href="Arngren Cart.html">Cart</a></li>
+		
+    </ul>
+  </nav>
+</div>
+	
 	<div id="container">
 	<div id="header">
 	</div>
 			
 			<div id="Main">
 		    
-	               <h3>25% off all parts on July 4th</h3>
+	            <h3>Search</h3>  
+				
+				<h3>25% off all parts on July 4th</h3>
 	        
-		           <h3>Arngren the place for all your classic
+		        <h3>Arngren the place for all your classic
                        electronic needs ...Read More</h3>
 			
+				<h3>25% OFF DEALS</h3>
+				
+				<h3>50% OFF DEALS</h3>
+				
+				<h3>RC</h3>
+				
+				<h3>Vehicle</h3>
+				
+				<h3>Toys</h3>
+				
+				<h3>Electric</h3>
+				
+				<h3>Collect</h3>
+				
+				<h3>Buy Now</h3>
+				
             </div>
    
-			
-</div>
+	</div>
 	
-	 <div id="footer">
+	 <div class="footer">
+      
+        <p>Copyright 2020 &copy; Shadow</p>
+
+	 </div>
 	
-      Copyright 2020 &copy; Shadow
-		
-   </div>
 	
 </body>
-
 </html>
