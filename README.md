@@ -1,5 +1,3 @@
-# Arngren
-
 [HTML]
 
 <!doctype html>
